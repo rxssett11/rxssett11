@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rosete Ismael (@rxssett11)
-- 👀 I’m interested in Python, Java
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Python, Java, React Native, JavaScript, Node Js
+- 🌱 I’m currently learning: Web Development
+- 💞️ I’m looking to collaborate on Gacetis167, MTA ACCMA
 - 📫 How to reach me rxssette11@gmail.com
 - ⚡ Fun fact: ...
 
