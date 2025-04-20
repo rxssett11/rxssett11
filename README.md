@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Java, React Native, JavaScript, Node Js
 - 🌱 I’m currently learning: Web Development
 - 💞️ I’m looking to collaborate on Gacetis167, MTA ACCMA
-- 📫 How to reach me rxssette11@gmail.com
+- 📫 How to reach me rxssett11@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
